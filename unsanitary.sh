@@ -11,6 +11,7 @@
 # Released under the Snitches Get Stitches Public Licence.
 # Gr33tz to everyone in #lizardhq and elsewhere <3
 # ~infodox (18/02/2016)
+# FREE LAURI LOVE!
 echo "Unsanitary - ASAN/SUID Local Root Exploit ~infodox (2016)"
 if [[ $# -eq 0 ]] ; then
     echo "use: $0 /full/path/to/targetbin"
